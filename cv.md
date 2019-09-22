@@ -39,7 +39,7 @@ I would like to list my gained experiences from different famous learning websit
 ### Education
 | Professional |
 | ------ |
-| A sophomore student at National University of Uzbekistan (https://nuu.uz/en/) |
+| A sophomore student at [National University of Uzbekistan](https://nuu.uz/en/) |
 | In Spring 2018, completed **NodeJS** courses at Inha University |
 
 
